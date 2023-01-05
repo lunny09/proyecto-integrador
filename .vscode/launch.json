@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ApiAgendamientoApplication",
+            "request": "launch",
+            "mainClass": "bienestar.api_agendamiento.ApiAgendamientoApplication",
+            "projectName": "api_agendamiento"
+        }
+    ]
+}
